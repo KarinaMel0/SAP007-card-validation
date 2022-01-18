@@ -8,7 +8,7 @@ function Documentos() {
   document.querySelector(".resultado").innerHTML = validator.isValid(pegaValor);
 }
 
-//pegando o valor do cartão e fazendo aparecer na tela
+//pegando o valor do cartão e faz aparecer na tela
 document.getElementById("botao").addEventListener("click", function () {
   let inputValor = document.getElementById("numeros5").value;
   document.getElementById("Teste").innerHTML = inputValor;

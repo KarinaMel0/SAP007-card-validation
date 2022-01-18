@@ -61,7 +61,7 @@ Reflita e depois enumere os objetivos que quer alcançar e aplique no seu projet
 
 ### CSS
 
-- [ ] **Uso de seletores de CSS**
+- [x] **Uso de seletores de CSS**
 
     <details><summary>Links</summary><p>
 
@@ -69,7 +69,7 @@ Reflita e depois enumere os objetivos que quer alcançar e aplique no seu projet
   - [CSS Selectors - MDN](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Selectors)
   </p></details>
 
-- [ ] **Empregar o modelo de caixa (box model): borda, margem, preenchimento**
+- [x] **Empregar o modelo de caixa (box model): borda, margem, preenchimento**
 
     <details><summary>Links</summary><p>
 
@@ -363,7 +363,7 @@ Nas regras/guias de estilo usaremos das recomendações padrão tanto para o
 3. Faça seu próprio🍴
    [fork](https://help.github.com/articles/fork-a-repo/) do repositório.
 4. ⬇️ [Clone](https://help.github.com/articles/cloning-a-repository/)
-   o \_fork* para seu computador (cópia local).
+   o \_fork\* para seu computador (cópia local).
 5. 📦 Instale as dependências do projeto rodando o comando `npm install`. Mas
    antes disso tenha certeza de ter instalado o [Node.js](https://nodejs.org/)
    (que inclui o [npm](https://docs.npmjs.com/)).
