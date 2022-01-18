@@ -1,6 +1,9 @@
-import validator from './validator.js';
+import validator from "./validator.js";
 
+document.querySelector(".btn").addEventListener("click", Documentos);
 
-let Documento = document.querySelector('.numberCard')
-let DocumentoBtn = document.querySelector('.btn')
+function Documentos() {
+  let pegaValor = document.querySelector(".numberCard").value;
 
+  document.querySelector(".resultado").innerHTML = validator.isValid(pegaValor);
+}
