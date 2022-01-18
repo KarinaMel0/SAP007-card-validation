@@ -51,7 +51,7 @@ Reflita e depois enumere os objetivos que quer alcançar e aplique no seu projet
 
 ### HTML
 
-- [ ] **Uso de HTML semântico**
+- [x] **Uso de HTML semântico**
 
     <details><summary>Links</summary><p>
 
