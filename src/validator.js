@@ -3,11 +3,11 @@ const validator = {
     let cardNumber = CardNumber.split("");
     let soma = 0;
     let isValid = false;
-
+    //loop em for:
     for (let contador = 0; contador < cardNumber.length; contador++) {
       if (contador % 2 != 0 && contador > 0) {
         let multi = 0;
-
+        // != significa diferente de 0 ou qualquer outro numero que eu colocar depois.
         multi = cardNumber[contador] * 2;
 
         if (multi > 9) {
@@ -25,10 +25,14 @@ const validator = {
         soma = soma + parseInt(cardNumber[contador]);
       }
     }
+
     if (soma % 10 == 0) {
       isValid = true;
     }
     return isValid;
+  },
+  maskify(isValid) {
+    return isValid.replace(/.(?=.{4})/g, "#");
   },
 };
 

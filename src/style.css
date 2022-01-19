@@ -1,21 +1,61 @@
 
+*{
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  box-sizing: border-box;
+  font-family: Verdana, sans-serif; 
+}
 body{
-  margin: 300px;
-  right: 300px;
-  bottom: 300px;
-  top: 300px;
- 
+  background:linear-gradient(100deg, rgb(5, 59, 21), rgb(42, 197, 107));
+  height: 100vh;
+  /* coloco flex na ''div'' pai */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 
 #root {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
   position: 359px;
   border: 300px;
   width: 359px;
   height: 209px;
-  background-color: #3A3A3A;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: #76d121;
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
   border-radius: 30px;
   align-items: center;
 }
 
+.numberCard{
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+h1{
+  font-size: 35px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.imagem1{
+  
+ width: 300px;
+ right: 30px;
+ padding: 0px;
+ 
+}
+h2{
+  margin-top: 30px;
+  text-align: center;
+  padding-bottom: 50px;
+ 
+}
+.btn{
+  border-radius: 10px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
