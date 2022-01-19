@@ -24,8 +24,8 @@ body{
   justify-content: center;
   position: 359px;
   border: 300px;
-  width: 359px;
-  height: 209px;
+  width: 500px;
+  height: 309px;
   background-color: #76d121;
   box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
   border-radius: 30px;
@@ -33,29 +33,45 @@ body{
 }
 
 .numberCard{
+  width: 400px;
+  height: 50px;
   margin-top: 30px;
   border-radius: 10px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 h1{
-  font-size: 35px;
+  font-size: 40px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-.imagem1{
-  
- width: 300px;
- right: 30px;
- padding: 0px;
- 
-}
+
 h2{
   margin-top: 30px;
   text-align: center;
-  padding-bottom: 50px;
+  padding-bottom: 5px;
  
 }
 .btn{
   border-radius: 10px;
   box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+  width: 70px;
+  height: 50px;
+  background-color: #76d121;
+}
+.animate{
+  width: 600px;
+  padding-top: 50px;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.quaseTudo{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 70vw;
 }
