@@ -33,7 +33,7 @@ Meu Usuário escolhido são pessoas que estão passando por uma queda de auto-es
 
 #### Amor-Próprio &#128149;
 
-Escolhi este tema, pois esse afeta muitas pessoas, e as vezes não damos importância para tal área em nossas vidas.
+Escolhi este tema, pois este afeta muitas pessoas, e as vezes não damos importância para tal área em nossas vidas.
 
 > "Praticar amor-próprio é entender que você é a pessoa mais importante da sua vida e assumir a responsabilidade pelo que acontece nela, sem culpar os outros e adquirindo cada vez mais autonomia.
 > É algo que permite entender que a nossa felicidade está nas nossas próprias mãos e que, sendo seu bem mais precioso, não pode ser submetida ao controle dos outros."
