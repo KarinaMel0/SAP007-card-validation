@@ -1,13 +1,14 @@
 # FaceLab
 
-## Projeto #1 - Desenvolvido no Bootcamp Laboratória
+## Projeto #1 Card Validation - Desenvolvido no Bootcamp Laboratória
 
 ## Sumário
-* [Amor Proprio](#Amor-Próprio-128149;) 
-* [Protótipo do projeto](#Protótipo-do-projeto)
-* [Funcionalidades](#Funcionalidades) 
-* [Tecnologias](#Tecnologias-usadas-no-projeto)
-* [Resultados](#Resultados)
+* [Amor Proprio](#amor-próprio-) 
+* [Protótipo do projeto](#protótipo-do-projeto-)
+* [Funcionalidades](#funcionalidades-) 
+* [Tecnologias](#tecnologias-usadas-no-projeto-)
+* [Resultado Final](#resultados-final-)
+* [Desenvolvedora](#desenvolvedora-)
 
 ---
 
