@@ -7,7 +7,7 @@
 - [Usuário](#usuário-)
 - [Protótipo do projeto](#protótipo-do-projeto-)
 - [Funcionalidades](#funcionalidades-)
-- [Tecnologias](#tecnologias-usadas-no-projeto-)
+- [Tecnologias](#tecnologias-)
 - [Resultado Final](#resultados-final-)
 - [Desenvolvedora](#desenvolvedora-)
 
@@ -68,7 +68,7 @@ Coloquei apenas 3 categorias de bandeiras diferentes, tente usar estes números 
 
 ---
 
-## Tecnologias usadas no projeto &#128640;
+## Tecnologias &#128640;
 
 | Tec's      |
 | ---------- |
