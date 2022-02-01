@@ -18,14 +18,18 @@
 Neste projeto foi proposto usar o Algorotimo de luhn para validar números de cartão de credito.
 
 Fiquei livre para escolher o tema da aplicação web, na qual escolhi criar uma marca fake de produtos para cuidado da pele, que foca em dar alem do produto para seus clientes, e promete fazer você dar um verdadeiro match com seu Amor-Próprio .&#128134;
-<img src="https://cdn.discordapp.com/attachments/725539486951538750/937909816523898990/FaceLab.png" >
+<div align="center" >
+<img style="width=50px" src="https://cdn.discordapp.com/attachments/725539486951538750/937909816523898990/FaceLab.png" >
+</div>
 
 ---
 
 ## Usuários &#x1F64B;
 
-Meu Usuário escolhido eram pessoas que tivessem passando por uma queda de baixa auto-estima e consequentemente amor-próprio. O FaceLab traz a vontade de cuidar de si novamente, de dentro para fora.
-<img src="https://cdn.discordapp.com/attachments/725539486951538750/937909125604573184/Instagram_story_-_1.png">
+Meu Usuário escolhido são pessoas que estão passando por uma queda de baixa auto-estima e consequentemente amor-próprio. O FaceLab traz a vontade de cuidar de si novamente, de dentro para fora.
+<div align="center">
+<img align="center" width=300px src="https://cdn.discordapp.com/attachments/725539486951538750/937909125604573184/Instagram_story_-_1.png">
+</div>
 
 #### Amor-Próprio &#128149;
 
@@ -41,13 +45,13 @@ Escolhi este tema, pois esse afeta muitas pessoas, e as vezes não damos import�
 Fiz o protótipo no Figma, me aventurando pelos plugins e aprendendo mais sobre essa nova ferramenta de design gráfico focado na criação de interfaces.
 Meu maior desafio foi fazer a o projeto ficar o mais parecido possível com oque estava no Figma, e claro, tentar trazer a identidade da marca.
 
-##### Figma
+### Figma
 
-<img src="https://cdn.discordapp.com/attachments/725539486951538750/937908851678793728/Screenshot_2.png">
+<img width=500px src="https://cdn.discordapp.com/attachments/725539486951538750/937908851678793728/Screenshot_2.png">
 
-##### Paleta de cores usada
+### Paleta de cores usadas 
 
-<img src="https://cdn.discordapp.com/attachments/725539486951538750/937907014674296883/Screenshot_310.png" >
+<img width=500px src="https://cdn.discordapp.com/attachments/725539486951538750/937907014674296883/Screenshot_310.png" >
 
 ---
 
@@ -77,19 +81,19 @@ Coloquei apenas 3 categorias de bandeiras diferentes, tente usar estes números 
 
 ---
 
-## Resultado Final
+## Resultado Final &#9989;
 
-<img src="https://cdn.discordapp.com/attachments/725539486951538750/937907014347161631/Screenshot_301.png"> 
-<img src="https://cdn.discordapp.com/attachments/725539486951538750/937907651105407006/Screenshot_312.png">
-<img src="">
+<img width=600px src="https://cdn.discordapp.com/attachments/725539486951538750/937907014347161631/Screenshot_301.png"> 
+<img width=600px src="https://cdn.discordapp.com/attachments/725539486951538750/937907651105407006/Screenshot_312.png">
+<img width=600px src="https://cdn.discordapp.com/attachments/725539486951538750/937913259334438932/Facelabgif.gif">
 
 ---
 
 ## Sobre a desenvolvedora &#127803;
 
-LinkDIn
-GitHub
-E-mail
+<a href="https://www.linkedin.com/in/karina-mel-611649223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+E-mail: Karinamelarantessilva@gmail.com
 
 ---
 
