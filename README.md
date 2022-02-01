@@ -3,8 +3,11 @@
 ## Projeto #1 - Desenvolvido no Bootcamp Laboratória
 
 ## Sumário
-
--[Proposta do projeto](#Proposta-do-projeto) -[Amor Proprio](#Amor-Proprio-&#128149) -[Protótipo do projeto](#Protótipo-do-projeto) -[Funcionalidades](#Funcionalidades) -[Tecnologias](#Tecnologias-usadas-no-projeto) -[Resultados](#Resultados)
+* [Amor Proprio](#Amor-Proprio-&#128149) 
+* [Protótipo do projeto](#Protótipo-do-projeto)
+* [Funcionalidades](#Funcionalidades) 
+* [Tecnologias](#Tecnologias-usadas-no-projeto)
+* [Resultados](#Resultados)
 
 ---
 
@@ -29,7 +32,7 @@ Escolhi este tema, pois esse afeta muitas pessoas, e as vezes não damos import�
 > "Praticar amor-próprio é entender que você é a pessoa mais importante da sua vida e assumir a responsabilidade pelo que acontece nela, sem culpar os outros e adquirindo cada vez mais autonomia.
 > É algo que permite entender que a nossa felicidade está nas nossas próprias mãos e que, sendo seu bem mais precioso, não pode ser submetida ao controle dos outros."
 
-## -[Thaiana Brotto-Psicóloga](https://www.psicologoeterapia.com.br/blog/amor-proprio/)
+#### -[Thaiana Brotto-Psicóloga](https://www.psicologoeterapia.com.br/blog/amor-proprio/)
 
 ## Protótipo do projeto &#128187;
 
@@ -83,8 +86,12 @@ E-mail
 ---
 
 #### Badges
+<div style= "display:flex; justify-content:center;">
+<img align="center" alt="-figma"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img align="center" alt="Node.js"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img align="center" alt="EsLint"  src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
+<img align="center" alt="Git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white
-https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+
