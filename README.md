@@ -3,7 +3,7 @@
 ## Projeto #1 Card Validation - Desenvolvido no Bootcamp Laboratória
 
 ## Sumário
-* [Amor Proprio](#amor-próprio-) 
+* [Usuário](#usuário) 
 * [Protótipo do projeto](#protótipo-do-projeto-)
 * [Funcionalidades](#funcionalidades-) 
 * [Tecnologias](#tecnologias-usadas-no-projeto-)
