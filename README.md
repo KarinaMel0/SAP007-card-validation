@@ -17,7 +17,7 @@
 
 Neste projeto foi proposto usar o Algorotimo de luhn para validar números de cartão de credito.
 
-Fiquei livre para escolher o tema da aplicação web, na qual escolhi criar uma marca fake de produtos para cuidado da pele, que foca em dar alem do produto para seus clientes, e promete fazer você dar um verdadeiro match com seu Amor-Próprio .&#128134;
+Fiquei livre para escolher o tema da aplicação web, na qual escolhi criar uma marca fake de produtos para cuidado da pele, que promete fazer você dar um verdadeiro match com seu Amor-Próprio .&#128134;
 <div align="center" >
 <img style="width=50px" src="https://cdn.discordapp.com/attachments/725539486951538750/937909816523898990/FaceLab.png" >
 </div>
