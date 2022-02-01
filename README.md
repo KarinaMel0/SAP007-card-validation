@@ -3,7 +3,7 @@
 ## Projeto #1 - Desenvolvido no Bootcamp Laboratória
 
 ## Sumário
-* [Amor Proprio](#Amor-Próprio-&#128149;) 
+* [Amor Proprio](#Amor-Próprio-128149;) 
 * [Protótipo do projeto](#Protótipo-do-projeto)
 * [Funcionalidades](#Funcionalidades) 
 * [Tecnologias](#Tecnologias-usadas-no-projeto)
