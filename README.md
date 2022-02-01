@@ -59,7 +59,7 @@ Meu maior desafio foi fazer a o projeto ficar o mais parecido possível com oque
 
 ## Como funciona? &#128179;
 
-Primeiro você preenche corretamente todos os campos com suas informações, e os dados do seu cartão passa por toda parte logica no `Validator.isValid`, logo depois, esses dados são jogados para o método `validator.maskify` e com os dados do cartão validos e mascarados, eles são jogados para o **index.js**, onde fica responsável por dividir os números em grupo de 4 e mostrar para o usuário, se o cartão é valido, se não, pede um número de cartão valido.
+Primeiro você preenche corretamente todos os campos com suas informações, e os dados do seu cartão passa por toda parte logica no `Validator.isValid`, eles são jogados para o **index.js**, onde fica responsável por dividir os números em grupo de 4 e mostrar para o usuário, se o cartão é valido, se não, pede um número de cartão valido. Já o `Validator.Maskify` fica responsvel por transformas os numeros em #.
 
 Coloquei apenas 3 categorias de bandeiras diferentes, tente usar estes números de cartão:
 | Bandeiras | Números validos |
