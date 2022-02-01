@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="shortcut icon" href="favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FaceLab</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <section class="noScroll" id="sessao1">
+      <div id="barraTop">
+        <a
+          target="_blank"
+          href="https://github.com/KarinaMel0"
+          class="texto-top"
+          >GitHub</a
+        >
+        <a
+          target="_blank"
+          href="https://www.linkedin.com/in/karina-mel-611649223/"
+          class="texto-top"
+          >linkedin</a
+        >
+      </div>
+      <div id="tudoBolha">
+        <img id="FaceLab" src="FaceLab.png" />
+        <img id="bolha" src="bolha.svg" />
+        <div id="produtoText">
+          <p id="textoPrinci">
+            &#10024;O Sérum FaceLab é um reparador. Ele consegue reduzir as
+            rugas, recupera a elasticidade e volume, melhora o viço e a
+            luminosidade com uma textura sérum aqua gel refrescante, adaptada
+            para peles sensíveis. Ele vai dar um verdadeiro Match com sua pele
+            &#10024;
+          </p>
+          <div class="Produto">
+            <a href="#sessao2">
+              <img
+                id="serum"
+                src="produtos-para-o-skincare-1024x683-removebg-preview (1) 1.svg"
+              />
+            </a>
+            <a href="#sessao2"><button id="darLike">Dar like</button></a>
+          </div>
+        </div>
+      </div>
+      <footer id="conteudoWave">
+        <div id="conteudo_wave">
+          <p>
+            All rights reserved to
+            <a href="https://www.linkedin.com/in/karina-mel-611649223/"
+              >Karina Mel</a
+            >
+          </p>
+          <p>
+            Photos:<a
+              target="_blank"
+              href="https://www.instagram.com/koolshooters/"
+              >@koolshooters</a
+            >
+          </p>
+        </div>
+        <img id="wave" src="wave.svg" />
+      </footer>
+      <div class="imagensFundo"></div>
+    </section>
+
+    <section class="noScroll" id="sessao2">
+      <div class="quaseTudo">
+        <div class="container">
+          <h2 class="titulo-sessao2">Checkout</h2>
+          <div id="root">
+            <p class="valorDoCvv"></p>
+            <p id="valor-Data"></p>
+            <img
+              class="Chip-cartao"
+              src="./kisspng-iphone-computer-icons-integrated-circuits-chips-sim-cards-5abe6d81745cb1 1.svg"
+              alt="Chip cartao"
+            />
+            <h2 class="nomeUsuario"></h2>
+
+            <img id="bandeiras" src="./" alt="" />
+            <h1 id="Teste"></h1>
+            <p class="resultado" id="resultado2"></p>
+          </div>
+
+          <div class="conteudo-input-cartao">
+            <input
+              class="numberCard"
+              id="nome"
+              type="text"
+              placeholder="Nome e Sobrenome"
+              maxlength="25"
+            />
+            <br />
+            <input
+              minlength="16"
+              maxlength="16"
+              class="numberCard"
+              type="text"
+              id="numeros5"
+              placeholder="0000-0000-0000-0000"
+            />
+            <br />
+            <input
+              id="valor-CVV"
+              class="numberCard"
+              type="text"
+              placeholder="CVV"
+              maxlength="3"
+            />
+            <br />
+            <input id="data-Cartao" class="numberCard" type="month" />
+            <br />
+            <button class="btn" type="button" id="botao">Dar Match</button>
+          </div>
+        </div>
+        <div class="Checkout-endereco">
+          <div class="bola-Checkout">
+            <p class="texto-p-bola">Produto Selecionado</p>
+            <h4>FaceLab-Sérum</h4>
+            <img
+              class="imagem-bola"
+              src="produtos-para-o-skincare-1024x683-removebg-preview (1) 1.svg"
+            />
+          </div>
+
+          <div class="endereco">
+            <input
+              class="input-endereco"
+              type="text"
+              placeholder="Endereço Completo"
+            />
+            <input class="input-endereco" type="text" placeholder="CEP" />
+            <input
+              class="input-endereco"
+              type="text"
+              placeholder="Complemento"
+            />
+          </div>
+        </div>
+      </div>
+      <script src="index.js" type="module"></script>
+    </section>
+  </body>
+</html>

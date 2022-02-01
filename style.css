@@ -1,0 +1,379 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@font-face {
+  font-family: "Solitude";
+  src: url("/fonts/Solitude.otf") format("otf");
+}
+
+::-webkit-scrollbar {
+  width: 1px;
+
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E6867A; 
+  border-radius: 10px;
+}
+ html{
+   scroll-behavior: smooth;
+ }
+*{
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+  
+}
+
+
+.imagensFundo{
+  
+  
+  
+  height: 100vh;
+  width: 100%;
+}
+
+#sessao2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction:column ;
+  height: 100vh;
+  
+}
+body{
+  background: #ED4A6A;
+  /* coloco flex na ''div'' pai */
+  
+}
+
+
+#root {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  
+  position: relative;
+  border: 300px;
+  width: 500px;
+  height: 309px;
+  background-color: #E6867A;
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  align-items: center;
+
+}
+
+.numberCard{
+  width: 400px;
+  height: 50px;
+  margin-top: 10px;
+  margin-left: 50px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+h2{
+  margin-top: 30px;
+  text-align: center;
+  padding-bottom: 5px;
+  
+}
+.btn{
+  border-radius: 10px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+  width: 400px;
+  height: 50px;
+  background-color: #ED4A6A;
+  cursor: pointer;
+  margin-left: 50px;
+  margin-top: 10px;
+  font-family: Solitude;
+  font-size: 30px;
+}
+
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap:10px;
+}
+.quaseTudo{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 70vw;
+}
+#barraTop{
+  background-color: #ED4A6A;
+  height: 80px;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+  align-items: center;
+  gap:60px;
+}
+#sessao1{
+  height: 100%;
+  width: 100%;
+  position: relative;   
+  background: url(./Slide\ 16_9\ -\ 1.png) center center no-repeat;
+  background-size: cover;
+  
+}
+#wave{
+  width: 100%;
+  bottom: -60px;
+  position: absolute;
+  
+  height: 11rem;
+  object-fit: contain;
+}
+#bolha{
+  position: absolute;
+  top: 100px;
+  top:  50%;
+  transform: translate(-50%,-55%);
+  left: 50%;
+  height:100%;
+  width: 100%;
+}
+#tudoBolha{
+  width: 823px;
+  height: 500px;
+ position: absolute;
+ top:  50%;
+ transform: translate(-50%,-52%);
+ left: 50%;
+ 
+}
+#FaceLab{
+  position: absolute;
+  width: 280px;
+  margin-top: 60px;
+  margin-left: 290px;
+  z-index: 1;
+}
+ #produtoText{
+   position: absolute;
+   top:35%;
+   display: flex;
+   gap: 150px;
+  
+ }
+  .Produto{
+   background-color: #C7FCD7;
+   display: flex;
+   align-items: center;
+   justify-content:center;
+   flex-direction: column;
+   width: 10rem;
+   height: 12rem;
+   max-height: 100%;
+   border-radius: 32px;
+   transition: all 1s;
+  }
+  #textoPrinci{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    max-width: 15rem;
+    max-height: 100%;
+    position: relative;
+    left: 100px;
+  }
+
+  #darLike{
+    border-radius: 15px;
+    max-height: 100%;
+    width: 10rem;
+    color: white;
+    background-color: #ED4A6A;
+    bottom: 0;
+    font-family: Solitude;
+    font-size: 47px;
+    transition: transform 2s;
+    cursor: pointer;
+  }
+  .Produto:hover{
+    transform:scale(1.1);
+    transition: all 0.5s ease-in-out;
+    background-color: #ee2049;
+   
+  }
+
+  #serum{
+    width: 180px;
+  }
+  #conteudoWave{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 80px;
+
+  }
+  #conteudo_wave{
+    width:100%;
+    font-family: 'Quicksand', sans-serif;
+    position: absolute;
+    z-index: 1;
+    display:flex;
+    justify-content: space-between;
+    bottom:25px;
+    padding: 0 35px;
+  }
+  a:visited{
+   color: black;
+  }
+  .texto-top:hover{
+    background-color: #b3695f;
+    cursor: pointer;
+  }
+
+  .texto-top{
+    padding: 5px;
+    background-color:#E6867A;
+    border-radius:5px;
+    font-size: 30px;
+    font-family:'Quicksand', sans-serif;
+
+  }
+
+  .conteudo-input-cartao{
+    background-color: #E6867A;
+    border-radius: 20px;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+    
+    width: 500px;
+    height: 309px;
+  }
+  .bola-Checkout{
+    border-radius: 50%;
+    background-color: #C7FCD7;
+    width: 450px;
+    height: 450px;
+    display: flex;
+    margin-bottom: 160px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Quicksand', sans-serif;
+  }
+  .imagem-bola{
+    position: relative;
+    width: 250px;
+  }
+  .Checkout-endereco{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+  
+
+  }
+  .endereco{
+    
+    background-color: #D9D5A7;
+    width: 470px;
+    height: 309px;
+    position: absolute;
+    bottom: -55px;
+    display: flex;
+    border-radius: 20px;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  .input-endereco{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .Chip-cartao{
+    position: absolute;
+    left:20px;
+    top: 10px;
+    width: 70px;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    
+  }
+  .nome-e-chip{
+    display: flex;
+    justify-content:center;
+    
+    align-items: center;
+    
+  }
+  #Teste{
+    font-size: 30px;
+    color: #c53d59;
+    opacity: 0.6;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius:10px;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 10px;
+    
+
+  }
+  .resultado{
+    margin-top: 10px;
+    font-size: 30px;
+    background-color:#c53d59;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius:10px;
+    font-family: 'Quicksand', sans-serif;
+    
+  }
+  .nomeUsuario{
+    margin-top: 10px;
+    font-size: 30px;
+    background-color: #c53d59;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius:10px;
+    font-family: 'Quicksand', sans-serif;
+    
+  }
+  #bandeiras{
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  width: 50px;
+  }
+  #valor-Data{
+   
+    font-size: 25px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background-color: #c53d59;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius:10px;
+    font-family: 'Quicksand', sans-serif;
+  }
+  .titulo-sessao2{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 40px;
+  }
+  .valorDoCvv{
+    font-size: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: #c53d59;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius:10px;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+ 
