@@ -26,7 +26,7 @@ Fiquei livre para escolher o tema da aplicação web, na qual escolhi criar uma 
 
 ## Usuário &#x1F64B;
 
-Meu Usuário escolhido são pessoas que estão passando por uma queda de baixa auto-estima e consequentemente amor-próprio. O FaceLab traz a vontade de cuidar de si novamente, de dentro para fora.
+Meu Usuário escolhido são pessoas que estão passando por uma queda de auto-estima e consequentemente amor-próprio. O FaceLab traz a vontade de cuidar de si novamente, de dentro para fora.
 <div align="center">
 <img align="center" width=300px src="https://cdn.discordapp.com/attachments/725539486951538750/937909125604573184/Instagram_story_-_1.png">
 </div>
