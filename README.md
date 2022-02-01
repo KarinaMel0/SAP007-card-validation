@@ -4,7 +4,7 @@
 
 ## Sumário
 
-- [Usuário](#usuário)
+- [Usuário](#usuário-)
 - [Protótipo do projeto](#protótipo-do-projeto-)
 - [Funcionalidades](#funcionalidades-)
 - [Tecnologias](#tecnologias-usadas-no-projeto-)
@@ -24,7 +24,7 @@ Fiquei livre para escolher o tema da aplicação web, na qual escolhi criar uma 
 
 ---
 
-## Usuários &#x1F64B;
+## Usuário &#x1F64B;
 
 Meu Usuário escolhido são pessoas que estão passando por uma queda de baixa auto-estima e consequentemente amor-próprio. O FaceLab traz a vontade de cuidar de si novamente, de dentro para fora.
 <div align="center">
