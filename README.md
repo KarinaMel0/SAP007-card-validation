@@ -1,10 +1,24 @@
+---
+## Como rodar meu projeto. &#9881;
+
+Instale as dependências do projeto rodando o comando `npm install`. 
+Mas antes disso tenha certeza de ter instalado o Node.js (que inclui o npm).
+
+Se tudo foi bem, você deve conseguir executar os testes unitários com o comando `npm test`.
+
+Para ver a interface do programa no navegador, use o comando `npm start` para iniciar o servidor web e entre na url `http://localhost:5000` no seu navegador.
+
+---
+
+
+
 # FaceLab
 
 ## Projeto #1 Card Validation - Desenvolvido no Bootcamp Laboratória
 
 
 ## Sumário
-- [Como Rodar?](#como-rodar)
+- [Como Rodar?](#como-rodar-meu-projeto-)
 - [Usuário](#usuário-)
 - [Protótipo do projeto](#protótipo-do-projeto-)
 - [Funcionalidades](#funcionalidades-)
@@ -53,16 +67,6 @@ Meu maior desafio foi fazer a o projeto ficar o mais parecido possível com oque
 ### Paleta de cores usadas 
 
 <img width=500px src="https://cdn.discordapp.com/attachments/725539486951538750/937907014674296883/Screenshot_310.png" >
-
----
-## Como rodar?
-
-Instale as dependências do projeto rodando o comando `npm install`. 
-Mas antes disso tenha certeza de ter instalado o Node.js (que inclui o npm).
-
-Se tudo foi bem, você deve conseguir executar os testes unitários com o comando `npm test`.
-
-Para ver a interface do programa no navegador, use o comando `npm start` para iniciar o servidor web e entre na url `http://localhost:*000` no seu navegador.
 
 ---
 
